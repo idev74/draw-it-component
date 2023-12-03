@@ -1,0 +1,10 @@
+.drawing-pad-container {
+    display: inline-block;
+    border: 2px solid #482e2e;
+    margin: 10px;
+  }
+  
+  drawing-pad {
+    display: block;
+  }
+  
