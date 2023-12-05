@@ -1,10 +1,22 @@
 .drawing-pad-container {
     display: inline-block;
-    border: 2px solid #482e2e;
+    align-items: center;
+    justify-content: center;
+    border: 4px solid #261010;
+    box-shadow: 10px 10px 5px #888888;
     margin: 10px;
   }
-  
-  drawing-pad {
-    display: block;
+
+  .wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5em;
+    color: #261010;
   }
   
